@@ -1,0 +1,14 @@
+userId,phishingType,capturedData,timestamp,date,ipAddress,userAgent
+user_001,email,"{""email"":""john.doe@company.com"",""password"":""********"",""clicked"":true}",2024-10-15T09:30:00.000Z,2024-10-15,192.168.1.101,Mozilla/5.0
+user_001,sms,"{""phoneNumber"":""+1-555-123-4567"",""verificationCode"":""123456""}",2024-10-20T14:15:00.000Z,2024-10-20,192.168.1.101,Mozilla/5.0
+user_002,email,"{""email"":""jane.smith@company.com"",""password"":""********""}",2024-10-18T11:00:00.000Z,2024-10-18,192.168.1.102,Mozilla/5.0
+user_002,social,"{""username"":""jsmith"",""password"":""********"",""platform"":""Facebook""}",2024-10-22T16:30:00.000Z,2024-10-22,192.168.1.102,Mozilla/5.0
+user_003,qr,"{""scanned"":true,""redirectUrl"":""https://fake-site.com"",""dataEntered"":true}",2024-10-19T10:45:00.000Z,2024-10-19,192.168.1.103,Mozilla/5.0
+user_004,email,"{""email"":""mike.johnson@company.com"",""password"":""********""}",2024-10-21T13:20:00.000Z,2024-10-21,192.168.1.104,Mozilla/5.0
+user_004,face,"{""email"":""mike.johnson@company.com"",""password"":""********"",""faceIdAttempted"":true}",2024-10-25T09:00:00.000Z,2024-10-25,192.168.1.104,Mozilla/5.0
+user_005,sms,"{""phoneNumber"":""+1-555-987-6543"",""verificationCode"":""789012""}",2024-10-23T15:10:00.000Z,2024-10-23,192.168.1.105,Mozilla/5.0
+user_006,email,"{""email"":""robert.brown@company.com"",""password"":""********""}",2024-10-24T12:30:00.000Z,2024-10-24,192.168.1.106,Mozilla/5.0
+user_007,social,"{""username"":""emilyd"",""password"":""********"",""platform"":""Instagram""}",2024-10-26T14:45:00.000Z,2024-10-26,192.168.1.107,Mozilla/5.0
+user_008,qr,"{""scanned"":true,""redirectUrl"":""https://phishing-test.com""}",2024-10-27T11:15:00.000Z,2024-10-27,192.168.1.108,Mozilla/5.0
+user_009,email,"{""email"":""lisa.martinez@company.com"",""password"":""********""}",2024-10-28T10:00:00.000Z,2024-10-28,192.168.1.109,Mozilla/5.0
+user_010,face,"{""email"":""thomas.anderson@company.com"",""password"":""********""}",2024-10-29T16:20:00.000Z,2024-10-29,192.168.1.110,Mozilla/5.0

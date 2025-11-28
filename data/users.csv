@@ -1,0 +1,11 @@
+id,email,name,role,department,createdAt,lastLoginAt
+user_001,john.doe@company.com,John Doe,user,IT,2024-09-15T10:30:00.000Z,2024-11-10T14:25:00.000Z
+user_002,jane.smith@company.com,Jane Smith,student,HR,2024-09-20T08:15:00.000Z,2024-11-09T09:10:00.000Z
+user_003,admin@company.com,Admin User,admin,IT,2024-08-01T12:00:00.000Z,2024-11-11T07:45:00.000Z
+user_004,mike.johnson@company.com,Mike Johnson,user,Finance,2024-10-05T16:20:00.000Z,2024-11-08T11:30:00.000Z
+user_005,sarah.williams@company.com,Sarah Williams,student,Marketing,2024-09-28T13:45:00.000Z,2024-11-10T15:00:00.000Z
+user_006,robert.brown@company.com,Robert Brown,user,Sales,2024-10-12T09:00:00.000Z,2024-11-09T10:20:00.000Z
+user_007,emily.davis@company.com,Emily Davis,user,Operations,2024-09-18T11:30:00.000Z,2024-11-10T13:15:00.000Z
+user_008,david.wilson@company.com,David Wilson,student,Support,2024-10-01T14:00:00.000Z,2024-11-08T16:45:00.000Z
+user_009,lisa.martinez@company.com,Lisa Martinez,user,Engineering,2024-09-25T10:15:00.000Z,2024-11-09T12:30:00.000Z
+user_010,thomas.anderson@company.com,Thomas Anderson,user,IT,2024-10-08T15:30:00.000Z,2024-11-10T08:00:00.000Z
